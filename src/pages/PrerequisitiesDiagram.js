@@ -27,7 +27,7 @@ class PrerequisitiesDiagram extends Component {
         terms: [],
         pre: {},
         inversePre: {},
-        courses: [],
+        courses: DEPARTMENT_COURSES["tek"],
         preCourses: null,
         courseName: null,
         termIndex: null,
